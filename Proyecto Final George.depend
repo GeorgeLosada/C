@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728951482 source:c:\users\jorlo\desktop\george curso de programacion\proyecto final george\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
